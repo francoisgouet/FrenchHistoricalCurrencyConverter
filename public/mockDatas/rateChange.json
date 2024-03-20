@@ -1,0 +1,42 @@
+{
+    "Euro":{
+        "Franc":6.5739
+    },  
+    "Franc":{
+        "Nouveau franc":100
+    },
+    "Nouveau franc":{
+        "Franc Pacifique":5.5
+    },
+    "Franc Pacifique":{
+        "or-metal":0,
+        "euros":0.00838
+    },
+    "Franc (à cheval)":{
+        "or (g)":3.87
+    },
+    "Franc (Germinal)":{
+        "metal (g)":5,
+        "metal pur(g)":4.5,
+        "or (g)":0.3225,
+        "or fin (g)":0.29025 
+    },
+    "Franc (à pied)":{
+        "metal (g)":5,
+        "metal pur (g)":4.5
+    },
+    "Livre tournois":{
+        "Franc (à cheval)":1,
+        "Franc (à pied)":1
+    },
+    "Livre parisis":{
+        "Livre tournois":1.28
+    },
+    "Franc (Poincaré)":{
+        "or":4
+    },"Franc (Révolutionnaire)":{
+        "or":4
+    },"Franc d'argent":{
+        "or":4
+    }
+}
